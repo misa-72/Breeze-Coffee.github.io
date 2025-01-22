@@ -199,7 +199,7 @@ MOBILE SIZE
 }
 
 .menupage{
-    background-image: url(../img/menu.jpeg);
+    background-image: url('https://misa-72.github.io/Breeze-Coffee.github.io/img/menu.jpeg');
     height: 100vh;
     scroll-snap-align: start;
     background-size: cover;
@@ -260,7 +260,7 @@ MOBILE SIZE
 
 
 .newspage{
-    background-image: url(../img/kit.jpeg);
+    background-image: url('https://misa-72.github.io/Breeze-Coffee.github.io/img/kit.jpeg');
     height: 100vh;
     scroll-snap-align: start;
     background-size: cover;
@@ -384,7 +384,7 @@ MOBILE SIZE
 
 
 .faqpage{
-    background-image: url(../img/faq.jpg);
+    background-image: url('https://misa-72.github.io/Breeze-Coffee.github.io/img/faq.jpg);
     height: 100vh;
     scroll-snap-align: start;
     background-size: cover;
